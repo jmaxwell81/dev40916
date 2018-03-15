@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-03-15 19:44:41"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description>A toolkit for every ServiceNow developer. Find more at http://thewhitespace.io
+
+### Version 4.4
+* Prevented 'getLine' exception from causing fatal error.
+* Increased timer scope to include hours.
+* Added ServiceNow build tag to the Xplore icon title.
+* Fixed possibility of table hierarchy from failing because of matcher error.
+* Updated application icon.</description><inserted/><name>[WS] Xplore: Developer Toolkit - 4.4</name><origin_sys_id/><parent/><release_date/><remote_base_update_set/><remote_parent_id/><remote_sys_id>4c83f0a7db1303003751771c8c9619f1</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-03-15 19:44:41</sys_created_on><sys_id>1c741c36db3c53003751771c8c9619fe</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-03-15 19:44:41</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set></unload>
